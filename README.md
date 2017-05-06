@@ -8,3 +8,5 @@
  
 ## Model View Controller Directory Structure
 ![2017-05-05](https://cloud.githubusercontent.com/assets/22284225/25769740/66a35460-31d6-11e7-975a-ae8b5e9c7b93.png)
+
+## Enter burger name to add burger, click delete to "devour" or remove burger
