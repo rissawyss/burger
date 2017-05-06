@@ -7,36 +7,4 @@
   - The app will store every burger in a database, whether devoured or not.
  
 ## Model View Controller Directory Structure
-.
-├── config
-│   ├── connection.js
-│   └── orm.js
-│ 
-├── controllers
-│   └── burgers_controller.js
-│
-├── db
-│   ├── schema.sql
-│   └── seeds.sql
-│
-├── models
-│   └── burger.js
-│ 
-├── node_modules
-│ 
-├── package.json
-│
-├── public
-│   ├── assets
-│   │   ├── css
-│   │   │   └── burger_style.css
-│   │   └── img
-│   │       └── burger.png
-│   └── test.html
-│
-├── server.js
-│
-└── views
-    ├── index.handlebars
-    └── layouts
-        └── main.handlebars
+![2017-05-05](https://cloud.githubusercontent.com/assets/22284225/25769740/66a35460-31d6-11e7-975a-ae8b5e9c7b93.png)
