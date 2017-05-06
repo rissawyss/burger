@@ -10,3 +10,4 @@
 ![2017-05-05](https://cloud.githubusercontent.com/assets/22284225/25769740/66a35460-31d6-11e7-975a-ae8b5e9c7b93.png)
 
 ## Enter burger name to add burger, click delete to "devour" or remove burger
+![2017-05-05 1](https://cloud.githubusercontent.com/assets/22284225/25769757/f5e3d924-31d6-11e7-93c5-fa19923896ce.png)
